@@ -1,2 +1,2 @@
-# nullprompt.github.io
+# nullprompt.pages.dev
 sources of nullprompt pages
